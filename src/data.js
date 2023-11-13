@@ -8,11 +8,11 @@ import { Icon } from "@iconify/react";
 import Logo from "./images/logo.svg";
 
 // Hero Images (add your images to the /images directory with the same names)
-import HeroLight from "./images/hero-light.jpg";
-import HeroDark from "./images/hero-dark.jpg";
+import JDSherbertHeaderLight from "./images/hheaderlight.jpg";
+import JDSherbertHeaderDark from "./images/headerdark.jpg";
 // If you change the import names above then you need to change the export names below
-export { HeroLight as Light };
-export { HeroDark as Dark };
+export { JDSherbertHeaderLight as Light };
+export { JDSherbertHeaderDark as Dark };
 
 /* START HERE
  **************************************************************
